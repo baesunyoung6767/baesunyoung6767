@@ -4,8 +4,8 @@
 
 ## 💻 DEV log 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baesunyoung6767&show_icons=true&theme=radical"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baesunyoung6767&layout=compact&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baesunyoung6767&show_icons=true&theme=tokyonight"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baesunyoung6767&layout=compact&show_icons=true&theme=tokyonight">
 </p>
 <br>
 
