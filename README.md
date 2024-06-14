@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=A5FFE4&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+SunYoung's+GitHub!👋)](https://git.io/typing-svg)
-<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=73C2FB)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=73C2FB&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+SunYoung's+GitHub!👋)](https://git.io/typing-svg)
+<br><br>
 
 ## 💻 DEV log 
 <p>
@@ -15,3 +16,7 @@
  <a href="mailto:tjsdud6677@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
  </a>
+ <a href="https://sunyoung-00.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E5511E?style=for-the-badge&logo=Blogger&logoColor=white"/></a> 
+<br><br><br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=73C2FB&height=150&section=footer)
