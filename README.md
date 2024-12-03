@@ -1,6 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=73C2FB)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=73C2FB&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+SunYoung's+GitHub!👋)](https://git.io/typing-svg)
-<br><br>
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=SunYoung's%20GitHub%20&height=150&fontSize=60&desc=Welcome!👋&descAlignY=85&descAlign=70)
+<br>
+
+<p align="center">
+  
+</p>
+
+<br>
 
 ## 💻 DEV log 
 <p>
@@ -19,4 +24,3 @@
  <a href="https://sunyoung-00.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E5511E?style=for-the-badge&logo=Blogger&logoColor=white"/></a> 
 <br><br><br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=73C2FB&height=150&section=footer)
