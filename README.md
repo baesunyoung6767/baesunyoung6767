@@ -15,9 +15,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baesunyoung6767&show_icons=true&theme=tokyonight"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baesunyoung6767&layout=compact&show_icons=true&theme=tokyonight">
 </p>
-<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qotjsdud67)](https://solved.ac/qotjsdud67/)
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=baesunyoung6767&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br>
 
 ## 📬 Contact
@@ -26,6 +28,3 @@
  </a>
  <a href="https://sunyoung-00.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E5511E?style=for-the-badge&logo=Blogger&logoColor=white"/></a> 
 <br><br>
-
-## 🔎 Commit graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=baesunyoung6767&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
