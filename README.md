@@ -17,9 +17,6 @@
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qotjsdud67)](https://solved.ac/qotjsdud67/)
-<br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=baesunyoung6767&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br>
 
 ## 📬 Contact
